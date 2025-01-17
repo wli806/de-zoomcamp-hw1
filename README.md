@@ -17,11 +17,11 @@ Create `docker-compose.yaml`.
 
  Download data
 
-![image-20250117164137006](E:\hexo\blog\source\_posts\Week1 DE Zoomcamp1 - hw.assets\image-20250117164137006.png)
+![image-20250117164137006](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117164137006.png)
 
 # Q3
 
-![image-20250117164137006](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117164137006.png)
+![image-20250117181036231](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117181036231.png)
 
 ```sql
 SELECT
