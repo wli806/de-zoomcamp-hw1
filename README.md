@@ -21,7 +21,7 @@ Create `docker-compose.yaml`.
 
 # Q3
 
-![image-20250117181036231](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117181036231.png)
+![image-20250117164137006](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117164137006.png)
 
 ```sql
 SELECT
@@ -41,6 +41,9 @@ WHERE
 
 
 # Q4
+![image-20250117181534535](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117181534535.png)
+
+For this question just change LIMIT 10; to LIMIT 1;
 
 ```sql
 SELECT
@@ -58,6 +61,7 @@ LIMIT 1;
 ```
 
 # Q5
+![image-20250117213546136](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117213546136.png)
 
 ```sql
 SELECT 
@@ -79,6 +83,7 @@ ORDER BY
 ```
 
 # Q6
+![image-20250117215822205](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117215822205.png)
 
 ```sql
 SELECT 
@@ -103,6 +108,6 @@ LIMIT 1;
 
 # Q7
 
-![image-20250117233324310](E:\hexo\blog\source\_posts\Week1 DE Zoomcamp1 - hw.assets\image-20250117233324310.png)
+![image-20250117233324310](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117233324310.png)
 
-![image-20250117233402410](E:\hexo\blog\source\_posts\Week1 DE Zoomcamp1 - hw.assets\image-20250117233402410.png)
+![image-20250117233402410](https://cdn.jsdelivr.net/gh/wli806/picgo/img/image-20250117233402410.png)
